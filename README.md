@@ -13,3 +13,5 @@ ________________________
 új ág létrehozása
 git branch "ágnév"
 ________________________
+feltöltés távoli repoba
+git push --set-upstream
